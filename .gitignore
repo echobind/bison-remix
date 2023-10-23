@@ -1,0 +1,14 @@
+node_modules
+.DS_store
+
+/build
+/public/build
+.env
+test-results
+playwright-report
+
+# generated files
+/app/components/ui/icons
+
+# Easy way to create temporary files/folders that won't accidentally be added to git
+*.local.*
